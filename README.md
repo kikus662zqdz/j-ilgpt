@@ -1,8 +1,7 @@
 <h1 align="center">J@IL-GPT<br>
 </h1>
-<img src="J@ILgptv2.png" alt="Paris" class="center">
 * `📱 💀`<br />
-* `A J@IL-GPT for termux `
+* `A J@IL-GPT `
 
 ## Disclaimer
 *This tool is for educational purposes only !*
@@ -40,9 +39,9 @@ Now Install the Requirements
 ```bash
 pip install -r requirements.txt
 ```
-Run the script
+Run the installer
 ```bash
-python3 main.py
+J@IL_GPT-4.5.msi
 ```
 
 
