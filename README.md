@@ -1,7 +1,7 @@
-<h1 align="center">J@IL-GPT<br>
+<h1 align="center">JAIL-GPT<br>
 </h1>
 * `📱 💀`<br />
-* `A J@IL-GPT `
+* `A JAIL-GPT `
 
 ## Disclaimer
 *This tool is for educational purposes only !*
@@ -31,7 +31,7 @@ DON'T WORRY
 * `We have a solution for that !`
 <br>
 
-Go to the J@IL-Gpt directory
+Go to the JAIL-Gpt directory
 ```bash
 cd J@IL-Gpt
 ```
