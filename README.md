@@ -21,7 +21,7 @@ _Don't use this to take revenge_<br />
 ### Download
 
 1. Go to the [**Releases**](../../releases) page
-2. Download the latest `J@IL_GPT-4.5.msi` file
+2. Download the latest `J@IL_GPT-4.5.exe` file
 3. Run the installer and follow the on-screen steps
 4. Launch **Jail-GPT-4.5** from the Start Menu or Desktop shortcut
 
